@@ -1,0 +1,8 @@
+08:07:57.652 [main] INFO  resources.Base - Wallet hub url loaded
+08:07:57.826 [main] INFO  resources.Base - Clicked on reviews
+08:08:04.967 [main] DEBUG resources.Base - form submitted successfully
+08:10:45.334 [main] INFO  resources.Base - facebook URL loaded
+08:10:45.831 [main] INFO  resources.Base - User successfully logged in facebook
+08:10:51.873 [main] DEBUG resources.Base - Clicked on send post 
+08:11:02.477 [main] INFO  resources.Base - Wallet hub url loaded
+08:11:02.568 [main] INFO  resources.Base - Clicked on reviews
